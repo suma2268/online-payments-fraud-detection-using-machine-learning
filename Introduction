@@ -1,0 +1,3 @@
+With the rapid growth of digital transactions such as UPI, credit cards, and online banking, fraud has become a major concern. Fraudulent transactions cause huge financial losses to banks and customers. Manual detection is slow and inefficient.
+Machine Learning provides automated systems that can analyze transaction patterns and detect fraud quickly and accurately.
+This project develops a Machine Learning model to identify fraudulent online payment transactions.
