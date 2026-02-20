@@ -1,0 +1,27 @@
+online-payments-fraud-detection/
+│
+├── README.md
+├── requirements.txt
+├── fraud_detection.ipynb
+├── fraud_detection.py
+│
+├── data/
+│   └── fraud.csv
+│
+├── models/
+│   └── fraud_model.pkl
+│
+├── notebooks/
+│   └── EDA.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── train_model.py
+│   ├── predict.py
+│
+├── outputs/
+│   ├── accuracy.txt
+│   └── confusion_matrix.png
+│
+└── images/
+    └── fraud_vs_nonfraud.png
