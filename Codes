@@ -1,0 +1,29 @@
+Contains dataset file
+data/
+ └── fraud.csv
+
+Stores trained model
+Copy code
+models/
+ └── fraud_model.pkl
+
+Contains modular code
+Copy code
+
+src/
+ ├── data_preprocessing.py
+ ├── train_model.py
+ └── predict.py
+notebooks/
+Contains Jupyter notebooks
+Copy code
+
+notebooks/
+ └── EDA.ipynb
+outputs/
+Stores results
+Copy code
+
+outputs/
+ ├── accuracy.txt
+ └── confusion_matrix.png
